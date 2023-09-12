@@ -1,1 +1,5 @@
+Applying Object Detection and Embedding Techniques for One-Shot Class-Incremental Multi-Label Image Classification
+
+Owing to the substantial size of the dataset, you can download it from the link provided below:
+
 https://drive.google.com/file/d/1eyI6qf0Y6MqNo1I1g6kzOLdYEq9qvASi/view?usp=sharing
